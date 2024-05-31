@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(240, 167, 21, 0.455);
+}
+
+h1 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.btn {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
